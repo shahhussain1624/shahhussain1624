@@ -43,7 +43,7 @@
 
 <br />
 
-<a href="https://linkedin.com/in/shah-hussain"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>
+<a href="https://www.linkedin.com/in/syed-shah-hussain-67b3b7409?"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>
 <a href="mailto:bosss0007860@gmail.com"><img src="https://img.shields.io/badge/SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
 
 <br /><br />
