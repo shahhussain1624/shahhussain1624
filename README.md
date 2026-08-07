@@ -3,98 +3,154 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=700&lines=I+build+systems+that+run+themselves;Agentic+AI+%E2%80%A2+Workflow+Automation;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Available+for+freelance+%26+remote+work" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=F59E0B&center=true&vCenter=true&width=760&lines=I+don't+just+write+code+%E2%80%94+I+automate+the+work+around+it;Agentic+AI+that+finishes+tasks+without+being+watched;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+n8n+%E2%80%A2+PostgreSQL;Open+for+freelance%2C+remote+work+and+internships" alt="typing" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahhussain1624&label=PROFILE+VIEWS&color=f59e0b&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/shahhussain1624?label=FOLLOWERS&style=for-the-badge&color=a78bfa&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/shahhussain1624?label=STARS&style=for-the-badge&color=3b82f6&logo=github" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=shahhussain1624&label=VISITORS&color=f59e0b&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/shahhussain1624?label=FOLLOWERS&style=flat-square&color=8b5cf6&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/LAHORE-PAKISTAN-22c55e?style=flat-square" alt="location" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22d3ee?style=flat-square" alt="status" />
 </div>
 
----
+<br />
 
-## `>` About Me
+## `01` — TRIGGER
 
-Computer Science student at the **University of Lahore** and a freelance developer building at the
-intersection of **web development** and **AI automation**.
+```yaml
+node: about_me
+type: manual_trigger
+```
 
-- Currently working on: agentic AI systems that handle multi-step business tasks on their own
-- Building with: Python, React.js, Node.js, and n8n workflow automation
-- Ask me about: LLM integration, REST API design, or wiring a chatbot into a live website
-- Open to: freelance work, remote roles, and internships
-- Reach me: **[LinkedIn](https://linkedin.com/in/shah-hussain)** · **bosss0007860@gmail.com**
+I'm a Computer Science student at the **University of Lahore** and a freelance developer.
+Most people build the app and stop there. I build the app, then build the system that runs it
+without anyone watching — agents that handle multi-step tasks, workflows that fire on webhooks,
+pipelines that clean up after themselves.
 
----
+If a task is repeatable, I think it should be automated. That belief is basically my whole stack.
 
-## `>` Tech Stack
+<br />
+
+## `02` — PROCESS
+
+<div align="center">
+  <img src="./assets/pipeline.svg" alt="execution pipeline" width="100%" />
+</div>
+
+<br />
+
+## `03` — RESOURCES
+
+<div align="center">
+  <img src="./assets/stack.svg" alt="stack allocation" width="100%" />
+</div>
+
+<details>
+<summary><b>&nbsp;▸ &nbsp;Expand full toolchain</b></summary>
+<br />
+
+| Layer | Tools |
+|---|---|
+| **Languages** | Python · C++ · JavaScript · SQL |
+| **Frontend** | React.js · HTML5 · CSS3 |
+| **Backend** | Node.js · REST APIs · Webhooks |
+| **AI / Automation** | Agentic AI systems · LLM integration · n8n workflows |
+| **Databases** | PostgreSQL · MySQL · MongoDB · schema design |
+| **Platforms** | Git & GitHub · VS Code · Shopify |
+
+</details>
+
+<br />
+
+## `04` — OUTPUT
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI Workflow Automation System
+An agentic system in Python that takes a business task, breaks it into steps, and executes them
+on its own. LLM APIs handle the natural-language parts; the orchestration layer handles the rest.
+
+`Python` `LLM APIs` `Agentic AI`
+
+</td>
+<td width="50%" valign="top">
+
+### Full-Stack Web Application
+A complete product build — React frontend, Node backend, PostgreSQL underneath, tied together
+with a clean REST API architecture.
+
+`React.js` `Node.js` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### HR & Payroll Management System
+A desktop system in C++ covering employee records, payroll calculation, and reporting —
+built close to the metal, no framework holding my hand.
+
+`C++` `File I/O`
+
+</td>
+<td width="50%" valign="top">
+
+### Restaurant Chatbot (n8n)
+A chatbot wired into a live restaurant website through webhooks, running on an n8n workflow
+that handles orders and queries without a human in the loop.
+
+`n8n` `Webhooks` `Automation`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>&nbsp;▸ &nbsp;Other things I've shipped</b></summary>
+<br />
+
+- **Library Books Management System** — database-driven, full CRUD, SQL queries, clean interface
+- **E-Commerce Support Agent** — automated customer query handling
+- **Social Media Suggestion Manager** — content ideas generated on a schedule
+- **Daily News Digest Agent** — scrapes, summarises, and delivers, unattended
+- **Shopify Store Setup** — product listings, payment integration, theme customisation
+
+</details>
+
+<br />
+
+## `05` — LOGS
 
 <div align="center">
 
-**Languages**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahhussain1624&theme=github-compact&hide_border=true&bg_color=0A0F1C&color=F59E0B&line=22D3EE&point=4ADE80&area=true&custom_title=Commit%20activity" width="100%" />
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-**Web Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-a78bfa?style=for-the-badge&logo=probot&logoColor=white)
-
-**Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=shahhussain1624&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=F59E0B&icon_color=8B5CF6&text_color=94A3B8&include_all_commits=true&hide=issues" height="165" />
+<img src="https://streak-stats.demolab.com?user=shahhussain1624&hide_border=true&background=0A0F1C&ring=F59E0B&fire=8B5CF6&currStreakLabel=F59E0B&sideLabels=94A3B8&dates=475569&stroke=1B2740&sideNums=E2E8F0&currStreakNum=E2E8F0" height="165" />
 
 </div>
 
----
+<br />
 
-## `>` Projects
-
-| Project | What it does | Built with |
-|---|---|---|
-| **[AI Workflow Automation System](https://github.com/shahhussain1624/REPO-NAME)** | Agentic AI system that handles multi-step business tasks autonomously, using LLM APIs for natural language understanding | `Python` `LLM APIs` |
-| **[Full-Stack Web Application](https://github.com/shahhussain1624/REPO-NAME)** | Complete web app with a REST API architecture, from frontend to database | `React.js` `Node.js` `PostgreSQL` |
-| **[Mini HR & Payroll System](https://github.com/shahhussain1624/REPO-NAME)** | Desktop HR system with employee records, payroll calculation, and reporting modules | `C++` |
-| **[Library Books Management](https://github.com/shahhussain1624/REPO-NAME)** | Database-driven library system with full CRUD operations and SQL queries | `SQL` `C++` |
-| **Restaurant Chatbot (n8n)** | Chatbot wired into a live restaurant website through webhooks | `n8n` `Webhooks` |
-
-> Also built: E-Commerce Support Agent · Social Media Suggestion Manager · Daily News Digest Agent
-
----
-
-## `>` Stats
+## `06` — WEBHOOK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shahhussain1624&theme=tokyonight&hide_border=true&background=0A1120&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" width="98%" />
+Got a workflow that eats your day? Send it my way.
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahhussain1624&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1120&title_color=F59E0B&icon_color=A78BFA&include_all_commits=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahhussain1624&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1120&title_color=F59E0B&langs_count=6" height="180" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahhussain1624&theme=tokyo-night&hide_border=true&bg_color=0A1120&color=F59E0B&line=A78BFA&point=4ADE80&area=true" width="98%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahhussain1624&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="98%" />
+<a href="https://linkedin.com/in/shah-hussain">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bosss0007860@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
----
+<br />
 
 <div align="center">
-  <sub><code>EOF</code> — open to freelance, remote work, and internships</sub>
+  <sub><code>workflow finished · 0 errors · always shipping</code></sub>
 </div>
