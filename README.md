@@ -21,44 +21,17 @@
 
 <img src="./assets/stack.svg" alt="Stack allocation" width="100%" />
 
-</div>
-
-<details>
-<summary><b>&nbsp;▸&nbsp; node_03.expand() &nbsp;—&nbsp; full toolchain</b></summary>
 <br />
 
-| Layer | Tools |
-|---|---|
-| **Languages** | Python · C++ · JavaScript · SQL |
-| **Frontend** | React.js · HTML5 · CSS3 |
-| **Backend** | Node.js · REST APIs · Webhooks |
-| **AI / Automation** | Agentic AI systems · LLM integration · n8n workflows |
-| **Databases** | PostgreSQL · MySQL · MongoDB · schema design |
-| **Platforms** | Git & GitHub · VS Code · Shopify |
-
-</details>
-
-<div align="center">
+<img src="./assets/toolchain.svg" alt="Full toolchain" width="100%" />
 
 <br />
 
 <img src="./assets/projects.svg" alt="Projects" width="100%" />
 
-</div>
-
-<details>
-<summary><b>&nbsp;▸&nbsp; node_04.expand() &nbsp;—&nbsp; everything else I've shipped</b></summary>
 <br />
 
-- **Library Books Management System** — database-driven, full CRUD, SQL queries, clean interface
-- **E-Commerce Support Agent** — automated customer query handling
-- **Social Media Suggestion Manager** — content ideas generated on a schedule
-- **Daily News Digest Agent** — scrapes, summarises and delivers, unattended
-- **Shopify Store Setup** — product listings, payment integration, theme customisation
-
-</details>
-
-<div align="center">
+<img src="./assets/archive.svg" alt="Archive" width="100%" />
 
 <br />
 
@@ -70,12 +43,8 @@
 
 <br />
 
-<a href="https://linkedin.com/in/shah-hussain">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
-</a>
-<a href="mailto:bosss0007860@gmail.com">
-  <img src="https://img.shields.io/badge/SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="" />
-</a>
+<a href="https://linkedin.com/in/shah-hussain"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>
+<a href="mailto:bosss0007860@gmail.com"><img src="https://img.shields.io/badge/SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
 
 <br /><br />
 
