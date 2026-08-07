@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" font-family="'JetBrains Mono','Fira Code','Courier New',monospace">
+<defs>
+      <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.4" cy="1.4" r="1.4" fill="#1b2740"/></pattern>
+      <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#f59e0b"/><stop offset="50%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#8b5cf6"/>
+      </linearGradient>
+    </defs>
+<rect width="1200" height="360" rx="16" fill="#070b14"/>
+<rect x="6" y="6" width="1188" height="348" rx="14" fill="#0a0f1c" stroke="url(#rim)" stroke-width="1.5"/>
+<rect x="20" y="20" width="1160" height="320" rx="10" fill="url(#grid)" opacity="0.55"/>
+<text x="40" y="52" font-size="13" fill="#f59e0b" font-weight="700" text-anchor="start">&gt;</text>
+<text x="58" y="52" font-size="13" fill="#e2e8f0" font-weight="700" text-anchor="start" letter-spacing="1">node_01 :: trigger</text>
+<text x="229.57" y="52" font-size="12" fill="#475569" font-weight="400" text-anchor="start">// who is running this workflow</text>
+<rect x="1081" y="36" width="79" height="22" rx="11" fill="#f59e0b" fill-opacity="0.12" stroke="#f59e0b" stroke-opacity="0.5"/>
+<circle cx="1097" cy="47" r="4" fill="#f59e0b"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="1108.7" y="51" font-size="10" fill="#f59e0b" font-weight="700" text-anchor="start" letter-spacing="1.5">MANUAL</text>
+<line x1="40" y1="70" x2="1160" y2="70" stroke="#1b2740" stroke-width="1"/>
+<text x="44" y="118" font-size="19" fill="#e2e8f0" font-weight="600" text-anchor="start">Most developers build the app and stop there.</text>
+<text x="44" y="148" font-size="19" fill="#94a3b8" font-weight="400" text-anchor="start">I build the app — then build the system that runs it</text>
+<text x="44" y="178" font-size="19" fill="#94a3b8" font-weight="400" text-anchor="start">without anyone watching.</text>
+<text x="44" y="230" font-size="13" fill="#64748b" font-weight="400" text-anchor="start">Computer Science student at the University of Lahore, freelancing since</text>
+<text x="44" y="252" font-size="13" fill="#64748b" font-weight="400" text-anchor="start">2024. I write agents that finish multi-step tasks on their own, workflows</text>
+<text x="44" y="274" font-size="13" fill="#64748b" font-weight="400" text-anchor="start">that fire on webhooks, and pipelines that clean up after themselves.</text>
+<text x="44" y="306" font-size="13" fill="#22c55e" font-weight="600" text-anchor="start">If a task is repeatable, it should be automated.</text>
+<rect x="778" y="96" width="382" height="196" rx="10" fill="#0d1526" stroke="#1b2740"/>
+<rect x="778" y="96" width="382" height="28" rx="10" fill="#22d3ee" fill-opacity="0.10"/>
+<rect x="778" y="112" width="382" height="12" fill="#0d1526"/>
+<text x="794" y="115" font-size="11" fill="#22d3ee" font-weight="700" text-anchor="start">config.yaml</text>
+<text x="798" y="152" font-size="12" fill="#64748b" font-weight="400" text-anchor="start">name:</text>
+<text x="890" y="152" font-size="12" fill="#f59e0b" font-weight="600" text-anchor="start">shah-hussain</text>
+<text x="798" y="176" font-size="12" fill="#64748b" font-weight="400" text-anchor="start">role:</text>
+<text x="890" y="176" font-size="12" fill="#22d3ee" font-weight="600" text-anchor="start">web dev · ai engineer</text>
+<text x="798" y="200" font-size="12" fill="#64748b" font-weight="400" text-anchor="start">base:</text>
+<text x="890" y="200" font-size="12" fill="#22d3ee" font-weight="600" text-anchor="start">lahore, pakistan</text>
+<text x="798" y="224" font-size="12" fill="#64748b" font-weight="400" text-anchor="start">mode:</text>
+<text x="890" y="224" font-size="12" fill="#8b5cf6" font-weight="600" text-anchor="start">freelance | remote</text>
+<text x="798" y="248" font-size="12" fill="#64748b" font-weight="400" text-anchor="start">since:</text>
+<text x="890" y="248" font-size="12" fill="#22d3ee" font-weight="600" text-anchor="start">2024</text>
+<text x="798" y="272" font-size="12" fill="#64748b" font-weight="400" text-anchor="start">status:</text>
+<text x="890" y="272" font-size="12" fill="#22c55e" font-weight="600" text-anchor="start">accepting work</text>
+<rect x="778" y="306" width="120" height="42" rx="8" fill="#0d1526" stroke="#f59e0b" stroke-opacity="0.35"/>
+<text x="792" y="326" font-size="16" fill="#f59e0b" font-weight="700" text-anchor="start">9+</text>
+<text x="792" y="341" font-size="9" fill="#475569" font-weight="400" text-anchor="start">projects shipped</text>
+<rect x="909" y="306" width="120" height="42" rx="8" fill="#0d1526" stroke="#22d3ee" stroke-opacity="0.35"/>
+<text x="923" y="326" font-size="16" fill="#22d3ee" font-weight="700" text-anchor="start">4</text>
+<text x="923" y="341" font-size="9" fill="#475569" font-weight="400" text-anchor="start">core languages</text>
+<rect x="1040" y="306" width="120" height="42" rx="8" fill="#0d1526" stroke="#22c55e" stroke-opacity="0.35"/>
+<text x="1054" y="326" font-size="16" fill="#22c55e" font-weight="700" text-anchor="start">24h</text>
+<text x="1054" y="341" font-size="9" fill="#475569" font-weight="400" text-anchor="start">reply time</text>
+</svg>

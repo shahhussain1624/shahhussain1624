@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 438" width="1200" height="438" font-family="'JetBrains Mono','Fira Code','Courier New',monospace">
+<defs>
+      <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.4" cy="1.4" r="1.4" fill="#1b2740"/></pattern>
+      <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#f59e0b"/><stop offset="50%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#8b5cf6"/>
+      </linearGradient>
+    </defs>
+<rect width="1200" height="438" rx="16" fill="#070b14"/>
+<rect x="6" y="6" width="1188" height="426" rx="14" fill="#0a0f1c" stroke="url(#rim)" stroke-width="1.5"/>
+<rect x="20" y="20" width="1160" height="398" rx="10" fill="url(#grid)" opacity="0.55"/>
+<text x="40" y="52" font-size="13" fill="#f59e0b" font-weight="700" text-anchor="start">&gt;</text>
+<text x="58" y="52" font-size="13" fill="#e2e8f0" font-weight="700" text-anchor="start" letter-spacing="1">node_04b :: archive</text>
+<text x="237.435" y="52" font-size="12" fill="#475569" font-weight="400" text-anchor="start">// smaller runs, all completed</text>
+<rect x="1081" y="36" width="79" height="22" rx="11" fill="#22c55e" fill-opacity="0.12" stroke="#22c55e" stroke-opacity="0.5"/>
+<circle cx="1097" cy="47" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="1108.7" y="51" font-size="10" fill="#22c55e" font-weight="700" text-anchor="start" letter-spacing="1.5">5 RUNS</text>
+<line x1="40" y1="70" x2="1160" y2="70" stroke="#1b2740" stroke-width="1"/>
+<rect x="40" y="96" width="1120" height="48" rx="10" fill="#0d1526" fill-opacity="0.95"/>
+<circle cx="68" cy="120" r="10" fill="#22c55e" fill-opacity="0.15" stroke="#22c55e" stroke-opacity="0.5"/>
+<path d="M63 120 l3.5 3.5 L74 116" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="117" font-size="13" fill="#e2e8f0" font-weight="600" text-anchor="start">Library Books Management System</text>
+<text x="92" y="134" font-size="11" fill="#64748b" font-weight="400" text-anchor="start">database-driven system, full CRUD and SQL queries</text>
+<rect x="1068" y="109" width="76" height="22" rx="11" fill="#22c55e" fill-opacity="0.13" stroke="#22c55e" stroke-opacity="0.45"/>
+<text x="1105.8" y="124" font-size="10" fill="#22c55e" font-weight="700" text-anchor="middle" letter-spacing="1">DATABASE</text>
+<rect x="40" y="154" width="1120" height="48" rx="10" fill="#0d1526" fill-opacity="0.55"/>
+<circle cx="68" cy="178" r="10" fill="#22c55e" fill-opacity="0.15" stroke="#22c55e" stroke-opacity="0.5"/>
+<path d="M63 178 l3.5 3.5 L74 174" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="175" font-size="13" fill="#e2e8f0" font-weight="600" text-anchor="start">E-Commerce Support Agent</text>
+<text x="92" y="192" font-size="11" fill="#64748b" font-weight="400" text-anchor="start">handles customer queries without a human replying</text>
+<rect x="1089" y="167" width="55" height="22" rx="11" fill="#8b5cf6" fill-opacity="0.13" stroke="#8b5cf6" stroke-opacity="0.45"/>
+<text x="1116.375" y="182" font-size="10" fill="#8b5cf6" font-weight="700" text-anchor="middle" letter-spacing="1">AGENT</text>
+<rect x="40" y="212" width="1120" height="48" rx="10" fill="#0d1526" fill-opacity="0.95"/>
+<circle cx="68" cy="236" r="10" fill="#22c55e" fill-opacity="0.15" stroke="#22c55e" stroke-opacity="0.5"/>
+<path d="M63 236 l3.5 3.5 L74 232" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="233" font-size="13" fill="#e2e8f0" font-weight="600" text-anchor="start">Social Media Suggestion Manager</text>
+<text x="92" y="250" font-size="11" fill="#64748b" font-weight="400" text-anchor="start">generates content ideas on a fixed schedule</text>
+<rect x="1089" y="225" width="55" height="22" rx="11" fill="#8b5cf6" fill-opacity="0.13" stroke="#8b5cf6" stroke-opacity="0.45"/>
+<text x="1116.375" y="240" font-size="10" fill="#8b5cf6" font-weight="700" text-anchor="middle" letter-spacing="1">AGENT</text>
+<rect x="40" y="270" width="1120" height="48" rx="10" fill="#0d1526" fill-opacity="0.55"/>
+<circle cx="68" cy="294" r="10" fill="#22c55e" fill-opacity="0.15" stroke="#22c55e" stroke-opacity="0.5"/>
+<path d="M63 294 l3.5 3.5 L74 290" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="291" font-size="13" fill="#e2e8f0" font-weight="600" text-anchor="start">Daily News Digest Agent</text>
+<text x="92" y="308" font-size="11" fill="#64748b" font-weight="400" text-anchor="start">scrapes, summarises and delivers, unattended</text>
+<rect x="1089" y="283" width="55" height="22" rx="11" fill="#8b5cf6" fill-opacity="0.13" stroke="#8b5cf6" stroke-opacity="0.45"/>
+<text x="1116.375" y="298" font-size="10" fill="#8b5cf6" font-weight="700" text-anchor="middle" letter-spacing="1">AGENT</text>
+<rect x="40" y="328" width="1120" height="48" rx="10" fill="#0d1526" fill-opacity="0.95"/>
+<circle cx="68" cy="352" r="10" fill="#22c55e" fill-opacity="0.15" stroke="#22c55e" stroke-opacity="0.5"/>
+<path d="M63 352 l3.5 3.5 L74 348" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="349" font-size="13" fill="#e2e8f0" font-weight="600" text-anchor="start">Shopify Store Setup</text>
+<text x="92" y="366" font-size="11" fill="#64748b" font-weight="400" text-anchor="start">listings, payment integration, theme customisation</text>
+<rect x="1089" y="341" width="55" height="22" rx="11" fill="#f59e0b" fill-opacity="0.13" stroke="#f59e0b" stroke-opacity="0.45"/>
+<text x="1116.375" y="356" font-size="10" fill="#f59e0b" font-weight="700" text-anchor="middle" letter-spacing="1">E-COM</text>
+<line x1="40" y1="396" x2="1160" y2="396" stroke="#1b2740" stroke-width="1"/>
+<text x="40" y="420" font-size="11" fill="#475569" font-weight="400" text-anchor="start">exit code 0 · no failed runs</text>
+<text x="1160" y="420" font-size="11" fill="#334155" font-weight="400" text-anchor="end">archive/</text>
+</svg>
